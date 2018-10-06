@@ -9,3 +9,15 @@ Debian环境下的一些VPS工具。
 $ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/aria2.sh
 ```
 
+## Rclone 自动挂载
+
+```shell
+$ wget -N --no-check-certificate https://raw.githubusercontent.com/chiakge/Aria2-Rclone-DirectoryLister-Aria2Ng/master/sh/rcloned
+```
+
+## Aria2下载完成后用Rclone上传到云盘
+
+```shell
+$ wget -N --no-check-certificate https://raw.githubusercontent.com/chiakge/Aria2-Rclone-DirectoryLister-Aria2Ng/master/sh/autoupload.sh
+```
+
